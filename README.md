@@ -1,0 +1,2 @@
+# amazingclaudeaskills
+skills for claude
